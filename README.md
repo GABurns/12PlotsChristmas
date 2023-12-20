@@ -8,7 +8,13 @@ Each plot represents a unique visualization related to Christmas themes and data
 
 1.  **Bumpchart animation**: A bump chart of the relative UK Chart positions of 5 classic Christmas songs.
 
-    ![](img/plot1.gif)
+![](img/plot1.gif)
+
+2.  **Logistic Regression:** Does Santa use logistic regression to write the nice list?
+
+![](img/plot2.gif)
+
+3.  
 
 ## How to Run
 
