@@ -1,4 +1,4 @@
-# Plot3: Time Series Animation of
+# Plot3: Time Series Animation of Google Trends Data
 # Author: Gareth Burns
 # Creation Date: 05/12/2023
 # Description:

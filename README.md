@@ -14,9 +14,15 @@ Each plot represents a unique visualization related to Christmas themes and data
 
 ![](img/plot2.gif)
 
-3.  **Bouncing Brussels Sprout:** An animation of showing time series data of Google Search Trends for "*Brussels Sprout***"** in 2022
+3.  **Bouncing Brussels Sprout:** An animation of showing time series data of Google Search Trends for "*Brussels Sprout***"** in 2022.
 
     ![](img/plot3.gif)
+
+4.  **Step Chart:** A Step Chart showing the cumulative total of birds gifted from the Christmas Carol "12 Days of Christmas".
+
+    ![](img/plot4.gif)
+
+5.  
 
 ## How to Run
 
