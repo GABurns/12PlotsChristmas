@@ -62,7 +62,7 @@ iconData <-  iconData %>%
 
 # Uncounting
 # A common issue in ecology is we collect frequency tallies but when using the
-# data we want an indivudal row per sample/individual - so it's inverse of count
+# data we want an individual row per sample/individual - so it's inverse of count
 # function in dplyr. For the y - we want the position on the y axis and
 # this is quite subjective as it'll depend on the size of your plot, the max value
 # of the frequency density and the size of your icons.

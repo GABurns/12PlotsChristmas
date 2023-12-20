@@ -26,6 +26,12 @@ Each plot represents a unique visualization related to Christmas themes and data
 
 ![](img/plot5.gif)
 
+6.  **Fa-La Bar Plot:** Cryptic Quiz and DRY principle!
+
+    ![](img/plot6.png)
+
+7.  
+
 ## How to Run
 
 To recreate these plots or explore the code, follow these steps:
