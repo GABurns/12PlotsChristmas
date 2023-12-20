@@ -14,7 +14,9 @@ Each plot represents a unique visualization related to Christmas themes and data
 
 ![](img/plot2.gif)
 
-3.  
+3.  **Bouncing Brussels Sprout:** An animation of showing time series data of Google Search Trends for "*Brussels Sprout***"** in 2022
+
+    ![](img/plot3.gif)
 
 ## How to Run
 
