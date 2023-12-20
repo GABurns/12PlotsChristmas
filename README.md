@@ -22,7 +22,9 @@ Each plot represents a unique visualization related to Christmas themes and data
 
     ![](img/plot4.gif)
 
-5.  
+5.  Christmas Tree Distribution: Use of Christmas tree icons to represent individual data points to show normal distribution that looks like Christmas tree.
+
+![](img/plot5.gif)
 
 ## How to Run
 
