@@ -30,7 +30,29 @@ Each plot represents a unique visualization related to Christmas themes and data
 
     ![](img/plot6.png)
 
-7.  
+7.  **Christmas Movie:** Christmas line chart that demonstrates *Die Hard is categorically a Christmas Movie*.
+
+    ![](img/plot7.gif)
+
+**Lego Logo Mosaic:** Use of [brickr](https://brickr.org/) package 📦 to create a Exploristics Lego Logo Mosciac.
+
+![](img/plot8.png)
+
+9.  **Christmas Gift Spending**: Bar chart of average UK spend on Christmas gifts per year. The use of labels to look like bow.
+
+    ![](img/plot9.gif)
+
+10. **Chimneys Visited Animation**: Winter wonderland background with exponential growth of chimneys visited.
+
+![](img/plot10.gif)
+
+11. **12 Days of Christmas:** Bar chart created using **SAS** displaying the number of gifts gifted during the 12 days of Christmas.
+
+    ![](img/plot11.gif)
+
+12. **Santa Wordcloud:** A word-cloud displaying the many names of Old Saint Nic!
+
+    ![](img/plot12.gif)
 
 ## How to Run
 
