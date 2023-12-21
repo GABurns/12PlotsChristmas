@@ -1,4 +1,4 @@
-## Plot5: Christmas Tree Distribution
+# Plot5: Christmas Tree Distribution
 # Author: Gareth Burns
 # Creation Date: 06/12/2023
 # Description:
