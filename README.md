@@ -22,7 +22,7 @@ Welcome to the [Exploristics](https://www.linkedin.com/company/exploristics/) 12
 4.  [Code of Conduct](#codeofconduct)
 5.  [Acknowledgements](#acknowledgements)
 
-## Plots <a name="plots"></a> {#plots}
+## Plots <a name="plots"></a> 
 
 Each plot represents a unique visualization related to Christmas themes and data analysis. Here's a brief overview of the plots:
 
@@ -125,7 +125,7 @@ To recreate these plots or explore the code, follow these steps:
 
 ***Note** some post plot creation graphic design was applied in third party tools.*
 
-## Contributing <a name="contributing"></a> {#contributing}
+## Contributing <a name="contributing"></a> 
 
 If you'd like to contribute your own Christmas-themed plots or improvements to existing ones, feel free to fork this repository, make changes, and create a pull request.
 
@@ -133,7 +133,7 @@ If you'd like to contribute your own Christmas-themed plots or improvements to e
 
 Please note that the *12 Plots of Christmas* project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
 
-## Acknowledgements <a name="acknowledgements"></a> {#acknowledgements}
+## Acknowledgements <a name="acknowledgements"></a> 
 
 Special thanks to
 
