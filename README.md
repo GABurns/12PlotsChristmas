@@ -42,7 +42,7 @@ Does Santa use logistic regression to write the nice list?
 
 ### Bouncing Brussels Sprout <a name="plot3"></a>
 
-An animation of showing time series data of Google Search Trends for "*Brussels Sprout***"** in 2022.
+An animation of showing time series data of Google Search Trends for "*Brussels Sprout*" in 2022.
 
         
 ![](img/plot3.gif)
@@ -50,7 +50,7 @@ An animation of showing time series data of Google Search Trends for "*Brussels 
 
 ### Birds of Christmas <a name="plot4"></a>
 
-A Step Chart showing the cumulative total of birds gifted from the Christmas Carol "12 Days of Christmas".
+A Step Chart showing the cumulative total of birds gifted from the Christmas Carol "*12 Days of Christmas*".
 
        
 ![](img/plot4.gif)
