@@ -2,6 +2,8 @@
 
 Welcome to the [Exploristics](https://www.linkedin.com/company/exploristics/) 12 Plots of Christmas repository! In this project, we showcase a collection of 12 different plots created using R (& SAS) programming language to celebrate the holiday season.
 
+These plots were featured on the [rweekly](https://rweekly.org/2024-W02.html) , a weekly R newsletter curating the highlights of the the online R commmunity.
+
 # Table of contents
 
 1.  [Plots](#plots)
